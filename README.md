@@ -1,8 +1,8 @@
-#HiggType
+HiggType
 
 HiggType is a minimalist typing website designed to help users improve their typing speed and accuracy through engaging and distraction-free exercises. With a clean interface and customizable features, it’s perfect for typists of all levels.
 
-#Features
+Features
 
 Typing Tests: Timed typing tests with real-time speed and accuracy tracking.
 
