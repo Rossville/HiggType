@@ -1,0 +1,10 @@
+.textfield{
+    background: none;
+    resize: none;
+    overflow: hidden;
+    height: 50vh;
+}
+
+.textfield:focus {
+  outline: none;
+}
